@@ -113,3 +113,19 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Jalapeno Fried Rice
+
+Ingridients
+- 2 pound Jalapenos
+- 5 tons rice
+- 5 pound garlic
+- 5 pound onions
+
+Instructions:
+1. Slice jalapenos to little pieces
+2. Slice garlic
+3. Slice onion
+4. Fry the three ingridients
+5. Add rice
+6. Enjoy! 
